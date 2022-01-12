@@ -1,3 +1,6 @@
+# What is this?
+I made this in about 45 mins to test deployment to azure. It's bad, don't look at it!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
